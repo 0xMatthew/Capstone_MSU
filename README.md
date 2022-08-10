@@ -1,5 +1,5 @@
 # Capstone_MSU
-This is my Capstone from May 2022 at MSU.
+This is my Capstone from May 2022 at MSU!
 
 ![image of homepage](https://github.com/0xMatthew/Capstone_MSU/blob/main/demo.png?raw=true)
 ![image of card information page](https://github.com/0xMatthew/Capstone_MSU/blob/main/demo2.png?raw=true)
