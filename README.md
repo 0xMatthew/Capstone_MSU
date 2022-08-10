@@ -15,3 +15,4 @@ This is how I taught myself how to use React.js.
 I was pretty satisfied with the end result!
 
 ### NOTE: cannot build project without excluded ./next, ./node_modules, and ./studio directories.
+### ALSO NOTE: certain elements no longer exist, so there might be some viewing anomalies that were not present at the time the project was created (such as images used from websites that might no longer exist)
