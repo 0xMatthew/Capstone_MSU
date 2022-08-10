@@ -1,8 +1,8 @@
 # Capstone_MSU
 This is my Capstone from May 2022 at MSU.
 
-![image of homepage](https://github.com/[0xMatthew]/Capstone_MSU/demo.png?raw=true)
-![image of card information page](https://github.com/[0xMatthew]/Capstone_MSU/demo2.png?raw=true)
+![image of homepage](https://github.com/0xMatthew/Capstone_MSU/blob/main/demo.png?raw=true)
+![image of card information page](https://github.com/0xMatthew/Capstone_MSU/blob/main/demo2.png?raw=true)
 
 This project is an aesthetically pleasant website with resizable, mobile-friendly pages that interacts with Ethereum Rinkeby test net to pull data from the blockchain for dynamic display on the website.
 
